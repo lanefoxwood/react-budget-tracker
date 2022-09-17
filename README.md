@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+* this app built with react helps you set different budget categories and app expenses. The fun color-changing progress bars help you visualize when you've spent under 50%, over 50% and even over 75% of your monthly budget. Add as many budget categories as you like, or your uncategoried expenses get tracked too. See your total expenses and what your goals are, with full CRUD functionality!
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
