@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-budget-tracker/static/css/main.bcd0085c.css",
+    "main.js": "/react-budget-tracker/static/js/main.cfd9048b.js",
+    "index.html": "/react-budget-tracker/index.html",
+    "main.bcd0085c.css.map": "/react-budget-tracker/static/css/main.bcd0085c.css.map",
+    "main.cfd9048b.js.map": "/react-budget-tracker/static/js/main.cfd9048b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd0085c.css",
+    "static/js/main.cfd9048b.js"
+  ]
+}
